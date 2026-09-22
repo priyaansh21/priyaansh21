@@ -1,1 +1,98 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260"
+     xmlns="http://www.w3.org/2000/svg">
 
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070a"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260"
+        rx="18"
+        fill="url(#bg)"
+        stroke="#39ff6a"
+        stroke-width="2"/>
+
+  <!-- terminal bar -->
+
+  <rect x="0" y="0" width="1200" height="42"
+        rx="18"
+        fill="#161b22"/>
+
+  <circle cx="25" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="45" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="65" cy="21" r="6" fill="#27c93f"/>
+
+  <text x="90" y="27"
+        font-family="monospace"
+        font-size="15"
+        fill="#8b949e">
+    priyaansh@cyber-lab:~
+  </text>
+
+  <!-- command -->
+
+  <text x="50" y="88"
+        font-family="monospace"
+        font-size="18"
+        fill="#39ff6a">
+    priyaansh@cyber-lab:~$
+  </text>
+
+  <text x="280" y="88"
+        font-family="monospace"
+        font-size="18"
+        fill="#ffffff">
+    whoami
+  </text>
+
+  <!-- name -->
+
+  <text x="50" y="140"
+        font-family="monospace"
+        font-size="38"
+        font-weight="bold"
+        fill="#39ff6a"
+        filter="url(#glow)">
+    PRIYAANSH JAISWAL
+  </text>
+
+  <!-- subtitle -->
+
+  <text x="52" y="178"
+        font-family="monospace"
+        font-size="17"
+        fill="#c9d1d9">
+    Cybersecurity • AI/ML • IoT • Robotics • Edge AI
+  </text>
+
+  <text x="52" y="212"
+        font-family="monospace"
+        font-size="15"
+        fill="#8b949e">
+    Building secure systems at the intersection of intelligence and hardware.
+  </text>
+
+  <!-- cursor -->
+
+  <rect x="52" y="228"
+        width="10"
+        height="18"
+        fill="#39ff6a">
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="1s"
+      repeatCount="indefinite"/>
+  </rect>
+
+</svg>
