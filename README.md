@@ -1,6 +1,9 @@
 <div align="center">
   <!-- Hero Image -->
   <img src="assets/hero/hero.png" width="100%" alt="Priyaansh Jaiswal">
+  <img src="assets/animations/hero_hud.gif"
+     width="100%"
+     alt="Cybersecurity AI Robotics System HUD">
 
   <h1>PRIYAANSH JAISWAL</h1>
 
