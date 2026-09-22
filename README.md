@@ -1,18 +1,20 @@
 <div align="center">
-  <!-- Hero Image -->
-  <img src="assets/hero/hero.png" width="100%" alt="Priyaansh Jaiswal">
-  <img src="assets/animations/hero_hud.gif"
-     width="100%"
-     alt="Cybersecurity AI Robotics System HUD">
+
+  <img src="assets/hero/hero.png" width="100%" alt="Priyaansh Jaiswal | Cybersecurity AI Robotics IoT">
+
+  <br><br>
+
+  <img src="assets/animations/hero_hud.gif" width="100%" alt="Cybersecurity AI Robotics System HUD">
 
   <h1>PRIYAANSH JAISWAL</h1>
 
-  <!-- ANIMATED TYPING HEADER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F6FF&center=true&vCenter=true&width=600&lines=CYBERSECURITY+SPECIALIST;AI+%2F+MACHINE+LEARNING;ROBOTICS+%26+AUTONOMOUS+DRONES;IoT+%26+EDGE+COMPUTING;ENGINEERING+INTELLIGENT+SYSTEMS" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F6FF&center=true&vCenter=true&width=650&lines=CYBERSECURITY+SPECIALIST;AI+%2F+MACHINE+LEARNING;ROBOTICS+%26+AUTONOMOUS+DRONES;IoT+%26+EDGE+COMPUTING;ENGINEERING+INTELLIGENT+SYSTEMS" alt="Typing Animation">
   </a>
 
-  <p><strong>Building secure, intelligent systems that connect software with the physical world.</strong></p>
+  <p>
+    <strong>Building secure, intelligent systems that connect software with the physical world.</strong>
+  </p>
 
   <p>
     <a href="https://github.com/priyaansh21">
@@ -25,37 +27,44 @@
       <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
     </a>
   </p>
+
 </div>
 
-<!-- ANIMATED DIVIDER LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
+<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
 
 <h2>⚡ ENGINEERING PROFILE</h2>
 
-<p><strong>B.Tech (Hons.) CSE | Cybersecurity | RV University, Bengaluru</strong></p>
+<p>
+  <strong>B.Tech (Hons.) Computer Science & Engineering · Cybersecurity · RV University, Bengaluru</strong>
+</p>
 
-<p>I build across the intersection of cybersecurity, AI, computer vision, robotics, IoT, networking and edge computing.</p>
+<p>
+  I work across <strong>cybersecurity, AI/ML, computer vision, robotics, IoT, networking and edge computing</strong>.
+</p>
 
-<p>My focus is turning ideas into working systems:</p>
+<p>My approach is simple:</p>
 
-<p><code>ARCHITECT</code> → <code>BUILD</code> → <code>TEST</code> → <code>SECURE</code> → <code>DEPLOY</code></p>
+<div align="center">
+  <p>
+    <code>ARCHITECT</code> → <code>BUILD</code> → <code>TEST</code> → <code>SECURE</code> → <code>DEPLOY</code>
+  </p>
+</div>
 
-<!-- ANIMATED DIVIDER LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
+<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
 
 <h2>🧩 CORE STACK</h2>
 
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">Domain</th>
+      <th align="left" width="25%">Domain</th>
       <th align="left">Technologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Cybersecurity</strong></td>
-      <td>Wireshark · Nmap · Nessus · FTK Imager · RegRipper · ExifTool</td>
+      <td>Wireshark · Nmap · Nessus · FTK Imager · RegRipper · ExifTool · MVT · ADB</td>
     </tr>
     <tr>
       <td><strong>AI / ML</strong></td>
@@ -76,8 +85,7 @@
   </tbody>
 </table>
 
-<!-- ANIMATED DIVIDER LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
+<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
 
 <h2>🚁 FEATURED SYSTEM</h2>
 
@@ -85,6 +93,7 @@
 <p><strong>Strategic Warfare Autonomous Response Mechanism</strong></p>
 <p>Autonomous multi-drone surveillance platform combining computer vision, edge AI and real-time monitoring.</p>
 
+<p><img src="assets/animations/swarm_radar.gif" width="100%" alt="SWARM Radar Scan"></p>
 <p><img src="assets/diagrams/swarm-architecture.png" width="100%" alt="SWARM Architecture"></p>
 
 <p>
@@ -93,28 +102,49 @@
 
 <p><strong>Focus:</strong> Real-time detection · Edge inference · Drone systems · Telemetry · AI deployment</p>
 
-<!-- ANIMATED DIVIDER LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
+<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
 
 <h2>🛡️ SECURITY + AI</h2>
 
+<p><img src="assets/animations/security_scan.gif" width="100%" alt="Security Scan HUD"></p>
 <p><img src="assets/diagrams/security-ml-pipeline.png" width="100%" alt="Security ML Pipeline"></p>
 
 <h3>Security ML Work</h3>
-<ul>
-  <li><strong>Malicious URL Detection:</strong> Supervised classification + unsupervised analysis.</li>
-  <li><strong>Anomaly Detection:</strong> K-Means based security anomaly analysis.</li>
-  <li><strong>Spam Detection:</strong> Machine-learning classification and preprocessing.</li>
-  <li><strong>Digital Forensics:</strong> FTK Imager · RegRipper · ExifTool · MVT · ADB</li>
-</ul>
 
-<!-- ANIMATED DIVIDER LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="30%">Domain</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Malicious URL Detection</strong></td>
+      <td>Supervised classification and unsupervised analysis</td>
+    </tr>
+    <tr>
+      <td><strong>Anomaly Detection</strong></td>
+      <td>K-Means based security anomaly analysis</td>
+    </tr>
+    <tr>
+      <td><strong>Spam Detection</strong></td>
+      <td>Machine-learning classification and preprocessing</td>
+    </tr>
+    <tr>
+      <td><strong>Digital Forensics</strong></td>
+      <td>FTK Imager · RegRipper · ExifTool · MVT · ADB</td>
+    </tr>
+  </tbody>
+</table>
+
+<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
 
 <h2>🌐 NETWORK + INFRASTRUCTURE</h2>
 
 <h3>Smart Airport Network Infrastructure</h3>
 
+<p><img src="assets/animations/network_flow.gif" width="100%" alt="Network Traffic Flow"></p>
 <p><img src="assets/diagrams/airport-network.png" width="100%" alt="Smart Airport Network"></p>
 
 <p>Enterprise-style segmented network designed with Cisco Packet Tracer.</p>
@@ -122,33 +152,32 @@
 
 <h3>Other Systems</h3>
 <ul>
-  <li><strong>Smart Hotel &amp; Command HQ Network</strong></li>
-  <li><strong>Threaded Python Web Server:</strong> Secure / segmented network architectures</li>
+  <li><strong>Smart Hotel &amp; Command HQ Network:</strong> Secure and segmented network architectures</li>
+  <li><strong>Threaded Python Web Server:</strong> High-concurrency socket server architecture</li>
 </ul>
 
-<!-- ANIMATED DIVIDER LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
+<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
 
 <h2>🔌 IoT + EMBEDDED</h2>
 
 <h3>Sensory Portal Interaction System</h3>
 
+<p><img src="assets/animations/iot_pulse.gif" width="100%" alt="IoT System Pulse"></p>
 <p><img src="assets/diagrams/iot-architecture.png" width="100%" alt="IoT Architecture"></p>
 
 <p><strong>Built around:</strong></p>
 <p><code>Arduino Uno</code> · <code>RC522 RFID</code> · <code>MQ2</code> · <code>LED Feedback</code></p>
-<p><strong>Focus:</strong> embedded programming, sensing, assistive interaction and hardware-software integration.</p>
+<p><strong>Focus:</strong> Embedded programming, sensing, assistive interaction and hardware-software integration.</p>
 
-<!-- ANIMATED DIVIDER LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
+<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
 
 <h2>🧪 OTHER PROJECTS</h2>
 
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">Project</th>
-      <th align="left">Area</th>
+      <th align="left" width="25%">Project</th>
+      <th align="left" width="25%">Area</th>
       <th align="left">Stack</th>
     </tr>
   </thead>
@@ -186,51 +215,59 @@
   </tbody>
 </table>
 
-<!-- ANIMATED DIVIDER LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
+<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
 
 <h2>🏢 EXPERIENCE</h2>
 
-<ul>
-  <li><strong>IISc Rhapsody 3.0:</strong> Drone systems and autonomous technology.</li>
-  <li><strong>Agnirva Space Internship:</strong> Technology and engineering exposure within the space-tech ecosystem.</li>
-  <li><strong>Vikasya Hackathon:</strong> Rapid prototyping, implementation and technical problem solving.</li>
-  <li><strong>Adobe Hackathon:</strong> Participated in a large-scale technology hackathon.</li>
-</ul>
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="30%"><strong>IISc Rhapsody 3.0</strong></td>
+      <td>Drone systems and autonomous technology.</td>
+    </tr>
+    <tr>
+      <td><strong>Agnirva Space Internship</strong></td>
+      <td>Technology and engineering exposure within the space-tech ecosystem.</td>
+    </tr>
+    <tr>
+      <td><strong>Vikasya Hackathon</strong></td>
+      <td>Rapid prototyping, implementation and technical problem solving.</td>
+    </tr>
+    <tr>
+      <td><strong>Adobe Hackathon</strong></td>
+      <td>Participation in a large-scale technology hackathon.</td>
+    </tr>
+  </tbody>
+</table>
 
-<!-- ANIMATED DIVIDER LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
+<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
 
-<h2>📊 DYNAMIC METRICS & ACTIVITY</h2>
+<h2>📊 GITHUB METRICS & ACTIVITY</h2>
 
 <div align="center">
-  <!-- GitHub Stats Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=priyaansh21&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F6FF&amp;text_color=C9D1D9&amp;icon_color=7C3AED&amp;include_all_commits=true" height="165" alt="GitHub Statistics">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyaansh21&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F6FF&amp;text_color=C9D1D9" height="165" alt="Top Languages">
   <br><br>
-  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=priyaansh21&amp;hide_border=true&amp;background=0D1117&amp;ring=00F6FF&amp;fire=7C3AED&amp;currStreakLabel=00F6FF&amp;sideLabels=C9D1D9&amp;dates=6E7681" width="65%" alt="GitHub Streak">
   <br><br>
-  <!-- Animated Activity Graph -->
-  <a href="https://github.com/priyaansh21">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyaansh21&amp;bg_color=0D1117&amp;color=00F6FF&amp;line=7C3AED&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" width="100%" alt="Activity Graph">
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyaansh21&amp;bg_color=0D1117&amp;color=00F6FF&amp;line=7C3AED&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" width="100%" alt="Priyaansh GitHub Activity Graph">
 </div>
 
-<!-- ANIMATED DIVIDER LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
+<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
 
 <h2>🎯 CURRENT FOCUS</h2>
 
-<p>
+<p align="center">
   <code>Cybersecurity</code> · <code>AI Security</code> · <code>Computer Vision</code> · <code>Edge AI</code> · <code>Robotics</code> · <code>IoT</code> · <code>Secure Infrastructure</code>
 </p>
 
 <br>
 
 <div align="center">
+  <img src="assets/animations/footer_core.gif" width="100%" alt="Core System Engine Footer">
+  <br><br>
   <p><strong>BUILD · SECURE · INTELLIGENT · AUTONOMOUS</strong></p>
   <p><strong>INNOVATE • INTEGRATE • ELEVATE</strong></p>
-  <br><br>
+  <br>
   <sub>PRIYAANSH JAISWAL · CYBERSECURITY × AI × ROBOTICS × IoT</sub>
 </div>
