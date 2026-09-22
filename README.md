@@ -4,14 +4,6 @@
 
 </div>
 
-<div align="center">
-
-<img
-  src="assets/terminal-header.svg"
-  width="100%"
-  alt="Priyaansh Jaiswal Cybersecurity Terminal"
-/>
-
 <br>
 
 <a href="https://github.com/priyaansh21">
