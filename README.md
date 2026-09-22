@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="assets/hero/hero.png" width="100%" alt="Priyaansh Jaiswal Cybersecurity and AI Portfolio">
+
+</div>
+
+<div align="center">
+
 <img
   src="assets/terminal-header.svg"
   width="100%"
