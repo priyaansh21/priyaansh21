@@ -1,16 +1,31 @@
 <div align="center">
+  <!-- Hero Image -->
   <img src="assets/hero/hero.png" width="100%" alt="Priyaansh Jaiswal">
+
   <h1>PRIYAANSH JAISWAL</h1>
-  <h3>CYBERSECURITY · AI/ML · ROBOTICS · IoT · EDGE AI</h3>
+
+  <!-- ANIMATED TYPING HEADER -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F6FF&center=true&vCenter=true&width=600&lines=CYBERSECURITY+SPECIALIST;AI+%2F+MACHINE+LEARNING;ROBOTICS+%26+AUTONOMOUS+DRONES;IoT+%26+EDGE+COMPUTING;ENGINEERING+INTELLIGENT+SYSTEMS" alt="Typing Animation">
+  </a>
+
   <p><strong>Building secure, intelligent systems that connect software with the physical world.</strong></p>
+
   <p>
-    <a href="https://github.com/priyaansh21">GitHub</a> ·
-    <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-    <a href="mailto:YOUR_EMAIL">Email</a>
+    <a href="https://github.com/priyaansh21">
+      <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+    </a>
+    <a href="YOUR_LINKEDIN_URL">
+      <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+    </a>
+    <a href="mailto:YOUR_EMAIL">
+      <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+    </a>
   </p>
 </div>
 
-<hr>
+<!-- ANIMATED DIVIDER LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
 
 <h2>⚡ ENGINEERING PROFILE</h2>
 
@@ -22,7 +37,8 @@
 
 <p><code>ARCHITECT</code> → <code>BUILD</code> → <code>TEST</code> → <code>SECURE</code> → <code>DEPLOY</code></p>
 
-<hr>
+<!-- ANIMATED DIVIDER LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
 
 <h2>🧩 CORE STACK</h2>
 
@@ -57,7 +73,8 @@
   </tbody>
 </table>
 
-<hr>
+<!-- ANIMATED DIVIDER LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
 
 <h2>🚁 FEATURED SYSTEM</h2>
 
@@ -73,7 +90,8 @@
 
 <p><strong>Focus:</strong> Real-time detection · Edge inference · Drone systems · Telemetry · AI deployment</p>
 
-<hr>
+<!-- ANIMATED DIVIDER LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
 
 <h2>🛡️ SECURITY + AI</h2>
 
@@ -87,7 +105,8 @@
   <li><strong>Digital Forensics:</strong> FTK Imager · RegRipper · ExifTool · MVT · ADB</li>
 </ul>
 
-<hr>
+<!-- ANIMATED DIVIDER LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
 
 <h2>🌐 NETWORK + INFRASTRUCTURE</h2>
 
@@ -104,7 +123,8 @@
   <li><strong>Threaded Python Web Server:</strong> Secure / segmented network architectures</li>
 </ul>
 
-<hr>
+<!-- ANIMATED DIVIDER LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
 
 <h2>🔌 IoT + EMBEDDED</h2>
 
@@ -116,7 +136,8 @@
 <p><code>Arduino Uno</code> · <code>RC522 RFID</code> · <code>MQ2</code> · <code>LED Feedback</code></p>
 <p><strong>Focus:</strong> embedded programming, sensing, assistive interaction and hardware-software integration.</p>
 
-<hr>
+<!-- ANIMATED DIVIDER LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
 
 <h2>🧪 OTHER PROJECTS</h2>
 
@@ -162,7 +183,8 @@
   </tbody>
 </table>
 
-<hr>
+<!-- ANIMATED DIVIDER LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
 
 <h2>🏢 EXPERIENCE</h2>
 
@@ -173,18 +195,27 @@
   <li><strong>Adobe Hackathon:</strong> Participated in a large-scale technology hackathon.</li>
 </ul>
 
-<hr>
+<!-- ANIMATED DIVIDER LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
 
-<h2>📊 GITHUB</h2>
+<h2>📊 DYNAMIC METRICS & ACTIVITY</h2>
 
 <div align="center">
+  <!-- GitHub Stats Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=priyaansh21&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F6FF&amp;text_color=C9D1D9&amp;icon_color=7C3AED&amp;include_all_commits=true" height="165" alt="GitHub Statistics">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyaansh21&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F6FF&amp;text_color=C9D1D9" height="165" alt="Top Languages">
   <br><br>
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=priyaansh21&amp;hide_border=true&amp;background=0D1117&amp;ring=00F6FF&amp;fire=7C3AED&amp;currStreakLabel=00F6FF&amp;sideLabels=C9D1D9&amp;dates=6E7681" width="65%" alt="GitHub Streak">
+  <br><br>
+  <!-- Animated Activity Graph -->
+  <a href="https://github.com/priyaansh21">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyaansh21&amp;bg_color=0D1117&amp;color=00F6FF&amp;line=7C3AED&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" width="100%" alt="Activity Graph">
+  </a>
 </div>
 
-<hr>
+<!-- ANIMATED DIVIDER LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8422-3d3d1abd0712.gif" width="100%" alt="Animated Divider">
 
 <h2>🎯 CURRENT FOCUS</h2>
 
