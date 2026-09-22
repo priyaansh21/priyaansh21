@@ -1,382 +1,521 @@
 <div align="center">
 
-<img src="assets/hero/hero.png" width="100%" alt="Priyaansh Jaiswal Cybersecurity and AI Portfolio">
+<img src="assets/hero/hero.png" width="100%" alt="Priyaansh Jaiswal | Cybersecurity, AI, Robotics and IoT">
 
-</div>
+<br>
+
+PRIYAANSH JAISWAL
+
+CYBERSECURITY • AI/ML • ROBOTICS • IoT • EDGE COMPUTING
+
+Engineering intelligent systems where software security meets the physical world.
 
 <br>
 
 <a href="https://github.com/priyaansh21">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39FF6A&center=true&vCenter=true&width=750&lines=Cybersecurity+%7C+AI%2FML+%7C+IoT+%7C+Robotics;Building+secure+systems+with+intelligence+and+hardware;Python+%7C+Linux+%7C+Networking+%7C+Edge+AI;Turning+ideas+into+working+systems" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/GitHub-priyaansh21-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:priyaanshjaiswal@example.com">
+  <img src="https://img.shields.io/badge/Contact-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
 
----
-
-## 🔐 About Me
-
-**Cybersecurity × AI/ML × IoT × Robotics**
-
-I'm **Priyaansh Jaiswal**, a B.Tech (Hons.) Computer Science & Engineering student specializing in **Cybersecurity** at RV University, Bengaluru.
-
-I enjoy building systems at the intersection of **security, artificial intelligence, networking, embedded systems and robotics**.
-
-My work ranges from machine-learning based threat detection and network analysis to ESP32/Arduino systems, autonomous drone concepts, backend applications and robotics.
-
-> **Build it. Break it. Understand it. Secure it.**
-
----
-
-## ⚡ Engineering Focus
-
-| Domain | Focus |
-|---|---|
-| 🔐 **Cybersecurity** | Network Security · Threat Detection · Digital Forensics · Security Testing |
-| 🧠 **AI / ML** | Anomaly Detection · Computer Vision · ML Security · Intelligent Systems |
-| 🤖 **Robotics** | ROS2 · Autonomous Systems · Differential Drive · Drone Technology |
-| 📡 **IoT & Embedded** | ESP32 · Arduino · Sensors · Embedded Security |
-| 🌐 **Networking** | TCP/IP · VLANs · Routing · Wireshark · Cisco Packet Tracer |
-| ⚙️ **Backend** | Python · Flask · REST APIs · SQLite · Linux |
-| 🛠️ **Development** | Git · GitHub · Docker · CI/CD · Automation |
-
----
-
-## 🛰️ Currently Building
-
-### 🚁 SWARM
-**Strategic Warfare Autonomous Response Mechanism**
-
-An autonomous multi-drone surveillance and edge-AI system.
-
-- Real-time computer vision
-- YOLO-based object detection
-- Pose estimation
-- LSTM-based analysis
-- Edge AI deployment
-- Python + OpenCV
-- NVIDIA Jetson
-- Flask monitoring dashboard
-
----
-
-### 🛡️ Cybersecurity & ML
-
-Building and experimenting with machine-learning based security systems involving:
-
-- Malicious URL detection
-- Anomaly detection
-- Network traffic analysis
-- DDoS detection
-- Security datasets
-- Threat scoring
-- Wireshark analysis
-- Nmap
-- Metasploit
-- Digital forensics
-
----
-
-### 📡 IoT Security Lab
-
-Working with:
-
-- ESP32
-- Arduino Uno
-- WiFi communication
-- Sensors
-- Embedded systems
-- Web interfaces
-- Device communication
-- IoT security concepts
-
----
-
-## 🚀 Featured Projects
+// SYSTEM PROFILE
 
 <table>
 <tr>
+<td width="52%" valign="top">
 
-<td width="50%" valign="top">
+WHO I AM
 
-### 🚁 SWARM
+I’m Priyaansh Jaiswal, a B.Tech (Hons.) Computer Science & Engineering student specializing in Cybersecurity at RV University, Bengaluru.
 
-**Autonomous Multi-Drone Surveillance**
+My work sits at the intersection of:
 
-> Edge-AI powered drone surveillance and monitoring platform.
+Cybersecurity and digital forensics
 
-- YOLO computer vision
-- Pose estimation
-- LSTM analysis
-- OpenCV
-- Jetson Xavier NX
-- Flask dashboard
-- CUDA
-- Linux
+Artificial intelligence and machine learning
 
-</td>
+Computer vision and edge AI
 
-<td width="50%" valign="top">
+IoT and embedded systems
 
-### 🛡️ Hybrid DDoS Detection
+Robotics and autonomous systems
 
-**Machine Learning Threat Detection**
+Computer networks and infrastructure
 
-> ML-based detection and scoring of suspicious network traffic.
-
-- Random Forest
-- Isolation Forest
-- Network flow analysis
-- CICIDS2017
-- Scapy
-- Python
-- Flask
-- scikit-learn
+I enjoy turning an idea into a working system, from the hardware layer and network architecture to the software, AI pipeline, security controls and user interface.
 
 </td>
 
-</tr>
+<td width="48%" valign="top">
 
-<tr>
+ENGINEERING FOCUS
 
-<td width="50%" valign="top">
+CYBERSECURITY       ████████████████████
+AI / ML             ██████████████████░░
+COMPUTER VISION     █████████████████░░░
+ROBOTICS            ████████████████░░░░
+IoT / EMBEDDED      ████████████████░░░░
+NETWORKING          █████████████████░░░
+EDGE COMPUTING      ███████████████░░░░░
+SOFTWARE ENGINEERING████████████████░░░░
 
-### 📡 IoT Security Systems
+CURRENT INTERESTS
 
-**ESP32 + Arduino**
-
-> Embedded systems combining IoT functionality with security concepts.
-
-- ESP32
-- Arduino
-- WiFi
-- Sensors
-- SPI
-- Web interfaces
-- Embedded security
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 ML Security Labs
-
-**Applied Machine Learning**
-
-> Practical experimentation with ML models for cybersecurity problems.
-
-- Spam detection
-- K-Means anomaly detection
-- Malicious URL detection
-- Dataset analysis
-- Feature engineering
-- Model evaluation
+Threat Detection Edge AI Autonomous Systems
+Network Security Computer Vision IoT Security
+Digital Forensics Cloud Security Secure Infrastructure
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Smart Airport Network
-
-**Cisco Packet Tracer**
-
-> Segmented enterprise-style airport network infrastructure.
-
-- VLANs
-- Routing
-- Network segmentation
-- Server zones
-- Security zones
-- Cisco Packet Tracer
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ DevTrack
-
-**Developer Activity Automation**
-
-> Automated GitHub development activity and contribution workflow.
-
-- Python
-- GitHub Actions
-- Automation
-- Scheduled workflows
-- Git
-- CI/CD
-
-</td>
-
 </tr>
 </table>
 
----
-
-## 🧰 Technical Arsenal
+// ENGINEERING DOMAINS
 
 <table>
 <tr>
+<td width="25%" align="center">
 
-<td width="160" align="right"><b>Languages</b></td>
+SECURITY
 
-<td>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,bash&theme=dark" height="40"/>
-<br>
-Python · C · C++ · Java · JavaScript · TypeScript · Bash · SQL
+Network Security
+Digital Forensics
+Threat Detection
+Security Automation
+Secure Systems
+
 </td>
+<td width="25%" align="center">
 
-</tr>
+INTELLIGENCE
 
-<tr>
+Machine Learning
+Computer Vision
+Anomaly Detection
+Object Detection
+Edge AI
 
-<td align="right"><b>AI / ML</b></td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" height="40"/>
-<br>
-PyTorch · TensorFlow · scikit-learn · OpenCV · Computer Vision · Anomaly Detection
 </td>
+<td width="25%" align="center">
 
-</tr>
+PHYSICAL SYSTEMS
 
-<tr>
+IoT
+Embedded Systems
+Arduino
+ESP32
+Robotics
 
-<td align="right"><b>Backend</b></td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,mysql,sqlite&theme=dark" height="40"/>
-<br>
-Flask · FastAPI · Node.js · REST APIs · SQLite · MySQL
 </td>
+<td width="25%" align="center">
 
-</tr>
+INFRASTRUCTURE
 
-<tr>
+Computer Networks
+Linux
+Docker
+Flask
+Databases
+Cloud Concepts
 
-<td align="right"><b>Cybersecurity</b></td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=kali,linux&theme=dark" height="40"/>
-<br>
-Wireshark · Nmap · Metasploit · Burp Suite · FTK Imager · RegRipper · ExifTool
 </td>
-
 </tr>
-
-<tr>
-
-<td align="right"><b>IoT / Embedded</b></td>
-
-<td>
-ESP32 · Arduino Uno · RP2040 · Sensors · SPI · UART · Embedded Systems
-</td>
-
-</tr>
-
-<tr>
-
-<td align="right"><b>DevOps</b></td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux&theme=dark" height="40"/>
-<br>
-Docker · Kubernetes · Git · GitHub Actions · Linux · CI/CD
-</td>
-
-</tr>
-
-<tr>
-
-<td align="right"><b>Networking</b></td>
-
-<td>
-TCP/IP · VLANs · Routing · Wireshark · Cisco Packet Tracer · SSH
-</td>
-
-</tr>
-
 </table>
 
----
+// FEATURED SYSTEMS
 
-## 🎓 Education
+SWARM — Strategic Warfare Autonomous Response Mechanism
 
-**RV University, Bengaluru**
+Autonomous multi-drone surveillance and edge-AI platform.
 
-**B.Tech (Hons.) Computer Science & Engineering**
+Architecture
 
-**Specialization:** Cybersecurity  
-**Minor:** Robotics & Industrial Automation  
-**2023 – 2027**
+CAMERAS / SENSORS
+        │
+        ▼
+┌─────────────────────┐
+│   EDGE AI PIPELINE  │
+│ YOLOv8 • OpenPose   │
+│ MediaPipe • LSTM    │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│   JETSON EDGE NODE  │
+│ CUDA • OpenCV       │
+│ Python              │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ MONITORING SYSTEM   │
+│ Flask • Web UI      │
+│ Real-time telemetry │
+└─────────────────────┘
 
----
+Core technologies: Python YOLOv8 OpenCV MediaPipe LSTM CUDA Flask Linux Jetson Xavier NX
 
-## 🏆 Certifications & Activities
+Engineering focus: real-time computer vision, edge inference, autonomous drone systems, telemetry and deployment.
 
-- IBM SkillsBuild certifications
-- NPTEL coursework
-- Agnirva Space Internship
-- Vikasya Hackathon
-- Cybersecurity laboratory projects
-- Machine Learning & Cybersecurity coursework
-- Robotics & embedded systems projects
+Smart Airport Network Infrastructure
 
----
+A Cisco Packet Tracer network architecture designed around operational segmentation and controlled communication between airport departments.
 
-## 📊 GitHub Telemetry
+Network zones
+
+ADMIN ───────────────┐
+CHECK-IN ────────────┤
+SECURITY ────────────┤
+CUSTOMS ─────────────┼──► CORE NETWORK ──► SERVER ZONE
+RETAIL ──────────────┤
+BACKUP SERVERS ──────┤
+ATC ─────────────────┘
+
+Engineering focus: VLAN segmentation, network architecture, departmental isolation, server zones and infrastructure design.
+
+Threaded Web Server Simulation
+
+A Python-based web server project focused on operating-system concepts and production-style server behavior.
+
+Implemented
+
+Multithreaded request handling
+
+HTTP request logging
+
+File caching
+
+Session storage
+
+Rate limiting
+
+GZIP compression
+
+MIME type handling
+
+Graceful SIGINT shutdown
+
+JSON-based server logs
+
+Stack: Python Sockets Threads HTTP JSON Linux/Windows
+
+ML Security Labs
+
+Applied machine-learning experiments focused on security-oriented datasets and detection workflows.
+
+Work includes
+
+Spam Detection
+     │
+     ├── Data preprocessing
+     ├── Feature engineering
+     └── Classification
+
+Anomaly Detection
+     │
+     ├── Unsupervised learning
+     ├── K-Means clustering
+     └── Outlier analysis
+
+Malicious URL Detection
+     │
+     ├── Supervised learning
+     ├── Unsupervised learning
+     └── Model comparison
+
+Focus: security datasets, preprocessing, model evaluation and practical detection pipelines.
+
+// ADDITIONAL BUILDS
+
+Project
+
+Domain
+
+Technologies
+
+Sensory Portal Interaction System
+
+Assistive Embedded Systems
+
+Arduino, RC522, MQ2, LEDs
+
+GraphiteForge
+
+Computer Vision / Web
+
+Flask, OpenCV, Python
+
+BillGenie
+
+Desktop Software
+
+Python, Tkinter
+
+AstroGuide
+
+Java Application
+
+Java, OOP, GUI
+
+MemoryVault
+
+Database Systems
+
+SQL, DBMS
+
+Smart Hotel & Command HQ Network
+
+Networking
+
+Cisco Packet Tracer, VLANs
+
+Travel Planner
+
+Web Development
+
+Flask, SQLite, Python
+
+// TECH STACK
+
+Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC">
+<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00">
+<img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1">
+<img src="https://img.shields.io/badge/ARM_Assembly-0d1117?style=flat-square&logo=arm&logoColor=0091BD">
+</p>
+
+AI / Machine Learning / Vision
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C">
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8">
+<img src="https://img.shields.io/badge/YOLO-0d1117?style=flat-square&logoColor=00FFFF">
+<img src="https://img.shields.io/badge/MediaPipe-0d1117?style=flat-square&logo=google&logoColor=4285F4">
+<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E">
+</p>
+
+Cybersecurity / Networking
+
+<p>
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7">
+<img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logoColor=00FFFF">
+<img src="https://img.shields.io/badge/Nessus-0d1117?style=flat-square&logoColor=22AA44">
+<img src="https://img.shields.io/badge/FTK_Imager-0d1117?style=flat-square&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624">
+</p>
+
+IoT / Embedded / Robotics
+
+<p>
+<img src="https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979D">
+<img src="https://img.shields.io/badge/ESP32-0d1117?style=flat-square&logo=espressif&logoColor=E7352C">
+<img src="https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat-square&logo=raspberrypi&logoColor=C51A4A">
+<img src="https://img.shields.io/badge/CUDA-0d1117?style=flat-square&logo=nvidia&logoColor=76B900">
+<img src="https://img.shields.io/badge/Robotics-0d1117?style=flat-square&logoColor=00FFFF">
+</p>
+
+Development
+
+<p>
+<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57">
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED">
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF">
+</p>
+
+// SECURITY TOOLKIT
+
+NETWORK
+├── Wireshark
+├── Nmap
+├── Nessus
+└── Packet Tracer
+
+FORENSICS
+├── FTK Imager
+├── RegRipper
+├── ExifTool
+├── MVT
+└── ADB
+
+SYSTEMS
+├── Linux
+├── Docker
+├── Git
+└── GitHub Actions
+
+DETECTION
+├── Machine Learning
+├── K-Means
+├── Classification
+├── Anomaly Detection
+└── Computer Vision
+
+// EXPERIENCE & EXPOSURE
+
+IISc Rhapsody 3.0
+
+Drone Systems / Autonomous Technology
+
+Worked around drone-system concepts, autonomous platforms and technology development.
+
+Agnirva Space Internship
+
+Space Technology / Engineering
+
+Exposure to engineering workflows and technology development in the space-tech ecosystem.
+
+Vikasya Hackathon
+
+Participated in a technology-focused hackathon environment involving rapid prototyping, problem solving and implementation.
+
+Adobe Hackathon
+
+Participated in the Adobe hackathon ecosystem and progressed within a large competitive participant pool.
+
+// CERTIFICATIONS & LEARNING
+
+Continuous learning across:
+
+IBM SkillsBuild
+
+NPTEL
+
+SWAYAM
+
+Cybersecurity and networking
+
+Machine learning
+
+Cloud and infrastructure
+
+Embedded systems
+
+Robotics
+
+Software engineering
+
+A certificate is a checkpoint. The real proof is what gets built afterward.
+
+// CURRENTLY BUILDING
+
+┌──────────────────────────────────────────────────────────────┐
+│                      ACTIVE DEVELOPMENT                      │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  [01] CYBERSECURITY                                         │
+│       Detection • Network Security • Digital Forensics      │
+│                                                              │
+│  [02] AI / ML                                               │
+│       Security Models • Computer Vision • Anomaly Detection │
+│                                                              │
+│  [03] IoT + EDGE                                            │
+│       ESP32 • Embedded Security • Edge Intelligence         │
+│                                                              │
+│  [04] ROBOTICS / DRONES                                     │
+│       Autonomous Systems • Vision • Telemetry              │
+│                                                              │
+│  [05] SECURE INFRASTRUCTURE                                 │
+│       Networks • Cloud Security • IaC • Systems            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+
+// ENGINEERING PRINCIPLES
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+BUILD
+
+Prototype quickly.
+Validate assumptions.
+Turn concepts into systems.
+
+</td>
+<td width="33%" align="center">
+
+SECURE
+
+Assume failure.
+Minimize attack surface.
+Design security into the architecture.
+
+</td>
+<td width="33%" align="center">
+
+DEPLOY
+
+Measure real behavior.
+Optimize for constraints.
+Make systems usable outside the lab.
+
+</td>
+</tr>
+</table>
+
+// GITHUB ACTIVITY
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=priyaansh21&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=39ff6a&icon_color=39ff6a&text_color=c9d1d9"
-  alt="GitHub statistics"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=priyaansh21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f6ff&text_color=c9d1d9&icon_color=7c3aed&include_all_commits=true" height="170" alt="GitHub statistics">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyaansh21&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff6a&text_color=c9d1d9"
-  alt="Top programming languages"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=priyaansh21&hide_border=true&background=0d1117&stroke=2ecc40&ring=39ff6a&fire=39ff6a&currStreakLabel=39ff6a&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"
-  alt="GitHub streak"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=priyaansh21&bg_color=0d1117&color=39ff6a&line=2ecc40&point=39ff6a&area=true&area_color=2ecc40&title_color=39ff6a&hide_border=true"
-  width="95%"
-  alt="GitHub contribution graph"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyaansh21&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f6ff&text_color=c9d1d9" height="170" alt="Top languages">
 
 </div>
 
----
+<br>
 
-## 📡 Connect
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=priyaansh21&hide_border=true&background=0D1117&ring=00F6FF&fire=7C3AED&currStreakLabel=00F6FF&sideLabels=C9D1D9&dates=6E7681" width="70%" alt="GitHub contribution streak">
+
+</div>
+
+// CONTRIBUTION MATRIX
+
+<div align="center">
+
+
+
+</div>
+
+// CONNECT
 
 <div align="center">
 
 <a href="https://github.com/priyaansh21">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39ff6a&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39ff6a&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
 </a>
 
-<br><br>
+<a href="mailto:priyaanshjaiswal@example.com">
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+</a>
 
-<sub>⚡ Build systems. Break assumptions. Secure the future.</sub>
+</div>
+
+<br>
+
+<div align="center">
+
+SECURE  •  INTELLIGENT  •  AUTONOMOUS
+
+INNOVATE • INTEGRATE • ELEVATE
+
+</div>
+
+<div align="center">
+
+<sub>Designed and engineered by Priyaansh Jaiswal · Cybersecurity × AI × Robotics × IoT</sub>
 
 </div>
