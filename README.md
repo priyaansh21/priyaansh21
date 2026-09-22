@@ -32,3 +32,53 @@
 
 ```text
 SECURE SYSTEMS  ×  INTELLIGENT SYSTEMS  ×  AUTONOMOUS SYSTEMS
+
+</div>
+01 // SYSTEM IDENTITY
+<table> <tr> <td width="58%" valign="top">
+WHO I AM
+
+I'm Priyaansh Jaiswal, a B.Tech (Hons.) Computer Science & Engineering student specializing in Cybersecurity at RV University, Bengaluru.
+
+My engineering interests span:
+
+Cybersecurity
+Artificial Intelligence
+Machine Learning
+Computer Vision
+Robotics
+IoT
+Embedded Systems
+Computer Networks
+Edge Computing
+
+I enjoy taking systems from:
+
+CONCEPT → ARCHITECTURE → IMPLEMENTATION → TESTING → DEPLOYMENT
+
+The problems that interest me most are the ones where software has to interact with hardware, networks, sensors, AI models and real-world constraints.
+
+</td> <td width="42%" valign="top">
+ENGINEERING MAP
+                 ┌──────────────┐
+                 │  REAL WORLD  │
+                 └──────┬───────┘
+                        │
+       ┌────────────────┼────────────────┐
+       │                │                │
+       ▼                ▼                ▼
+   HARDWARE          NETWORKS         SOFTWARE
+       │                │                │
+       └────────────────┼────────────────┘
+                        │
+                        ▼
+                  INTELLIGENCE
+                        │
+                        ▼
+                    SECURITY
+                        │
+                        ▼
+                 DEPLOYED SYSTEM
+</td> </tr> </table>
+
+
