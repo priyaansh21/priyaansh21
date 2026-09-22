@@ -4,7 +4,7 @@
 
   <br><br>
 
-  <img src="assets/animations/hero_hud.gif" width="100%" alt="Cybersecurity AI Robotics System HUD">
+ # <img src="assets/animations/hero_hud.gif" width="100%" alt="Cybersecurity AI Robotics System HUD">
 
   <h1>PRIYAANSH JAISWAL</h1>
 
