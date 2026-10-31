@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700" role="img" aria-labelledby="t d">
+<title id="t">Figure 03 — Evidence matrix of domains and repositories</title>
+<desc id="d">Dot matrix with eight domains as rows and ten repositories as columns. Security engineering is primary in CloudContextGuard, SentinelSphere, QR Shield and MalSim. Machine learning is primary in SentinelSphere, QR Shield and Resume Ranker. LLMs and agents in HEALIX and StudyAssistant. Backend and APIs in CloudContextGuard, SentinelSphere, QR Shield, MalSim and FinPlanPremium. Networks and traffic in SentinelSphere. Testing and documentation in CloudContextGuard. Embedded and IoT in a team IoT project.</desc>
+<style>
+.serif{font-family:Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif}
+.mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;letter-spacing:.08em}
+.flow{stroke-dasharray:6 8;animation:flow 2.4s linear infinite}
+.pulse{animation:pulse 3.2s ease-in-out infinite}
+.sweep{animation:sweep 9s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-28}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.45}}
+@keyframes sweep{0%{transform:translateX(0)}100%{transform:translateX(var(--sweep,400px))}}
+@media (prefers-reduced-motion:reduce){.flow,.pulse,.sweep{animation:none}}
+</style>
+<rect width="1200" height="700" fill="#0d1117"/>
+<line x1="0" y1="0" x2="0" y2="700" stroke="#1b222c" stroke-width="1" />
+<line x1="40" y1="0" x2="40" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="80" y1="0" x2="80" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="120" y1="0" x2="120" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="160" y1="0" x2="160" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="200" y1="0" x2="200" y2="700" stroke="#1b222c" stroke-width="1" />
+<line x1="240" y1="0" x2="240" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="280" y1="0" x2="280" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="320" y1="0" x2="320" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="360" y1="0" x2="360" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="400" y1="0" x2="400" y2="700" stroke="#1b222c" stroke-width="1" />
+<line x1="440" y1="0" x2="440" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="480" y1="0" x2="480" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="520" y1="0" x2="520" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="560" y1="0" x2="560" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="600" y1="0" x2="600" y2="700" stroke="#1b222c" stroke-width="1" />
+<line x1="640" y1="0" x2="640" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="680" y1="0" x2="680" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="720" y1="0" x2="720" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="760" y1="0" x2="760" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="800" y1="0" x2="800" y2="700" stroke="#1b222c" stroke-width="1" />
+<line x1="840" y1="0" x2="840" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="880" y1="0" x2="880" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="920" y1="0" x2="920" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="960" y1="0" x2="960" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="1000" y1="0" x2="1000" y2="700" stroke="#1b222c" stroke-width="1" />
+<line x1="1040" y1="0" x2="1040" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="1080" y1="0" x2="1080" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="1120" y1="0" x2="1120" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="1160" y1="0" x2="1160" y2="700" stroke="#151b23" stroke-width="1" />
+<line x1="1200" y1="0" x2="1200" y2="700" stroke="#1b222c" stroke-width="1" />
+<line x1="0" y1="0" x2="1200" y2="0" stroke="#1b222c" stroke-width="1" />
+<line x1="0" y1="40" x2="1200" y2="40" stroke="#151b23" stroke-width="1" />
+<line x1="0" y1="80" x2="1200" y2="80" stroke="#151b23" stroke-width="1" />
+<line x1="0" y1="120" x2="1200" y2="120" stroke="#151b23" stroke-width="1" />
+<line x1="0" y1="160" x2="1200" y2="160" stroke="#151b23" stroke-width="1" />
+<line x1="0" y1="200" x2="1200" y2="200" stroke="#1b222c" stroke-width="1" />
+<line x1="0" y1="240" x2="1200" y2="240" stroke="#151b23" stroke-width="1" />
+<line x1="0" y1="280" x2="1200" y2="280" stroke="#151b23" stroke-width="1" />
+<line x1="0" y1="320" x2="1200" y2="320" stroke="#151b23" stroke-width="1" />
+<line x1="0" y1="360" x2="1200" y2="360" stroke="#151b23" stroke-width="1" />
+<line x1="0" y1="400" x2="1200" y2="400" stroke="#1b222c" stroke-width="1" />
+<line x1="0" y1="440" x2="1200" y2="440" stroke="#151b23" stroke-width="1" />
+<line x1="0" y1="480" x2="1200" y2="480" stroke="#151b23" stroke-width="1" />
+<line x1="0" y1="520" x2="1200" y2="520" stroke="#151b23" stroke-width="1" />
+<line x1="0" y1="560" x2="1200" y2="560" stroke="#151b23" stroke-width="1" />
+<line x1="0" y1="600" x2="1200" y2="600" stroke="#1b222c" stroke-width="1" />
+<line x1="0" y1="640" x2="1200" y2="640" stroke="#151b23" stroke-width="1" />
+<line x1="0" y1="680" x2="1200" y2="680" stroke="#151b23" stroke-width="1" />
+<text x="64" y="72" font-size="15" fill="#d9a441" class="mono">FIG. 03</text>
+<text x="1136" y="72" font-size="14" fill="#8b929b" class="mono" text-anchor="end">DERIVED FROM REPOSITORY SOURCE</text>
+<text x="64" y="132" font-size="50" fill="#e6e3dc" class="serif">Evidence matrix</text>
+<text x="64" y="172" font-size="15" fill="#8b929b" class="mono">DOMAINS × REPOSITORIES</text>
+<line x1="470" y1="308" x2="470" y2="628" stroke="#1b222c" stroke-width="1" />
+<text x="474" y="296" font-size="13" fill="#e6e3dc" class="mono" transform="rotate(-40 474 296)">CloudContextGuard</text>
+<line x1="536" y1="308" x2="536" y2="628" stroke="#1b222c" stroke-width="1" />
+<text x="540" y="296" font-size="13" fill="#e6e3dc" class="mono" transform="rotate(-40 540 296)">SentinelSphere</text>
+<line x1="602" y1="308" x2="602" y2="628" stroke="#1b222c" stroke-width="1" />
+<text x="606" y="296" font-size="13" fill="#e6e3dc" class="mono" transform="rotate(-40 606 296)">QR Shield</text>
+<line x1="668" y1="308" x2="668" y2="628" stroke="#1b222c" stroke-width="1" />
+<text x="672" y="296" font-size="13" fill="#e6e3dc" class="mono" transform="rotate(-40 672 296)">MalSim</text>
+<line x1="734" y1="308" x2="734" y2="628" stroke="#1b222c" stroke-width="1" />
+<text x="738" y="296" font-size="13" fill="#e6e3dc" class="mono" transform="rotate(-40 738 296)">HEALIX</text>
+<line x1="800" y1="308" x2="800" y2="628" stroke="#1b222c" stroke-width="1" />
+<text x="804" y="296" font-size="13" fill="#e6e3dc" class="mono" transform="rotate(-40 804 296)">StudyAssistant</text>
+<line x1="866" y1="308" x2="866" y2="628" stroke="#1b222c" stroke-width="1" />
+<text x="870" y="296" font-size="13" fill="#e6e3dc" class="mono" transform="rotate(-40 870 296)">Resume Ranker</text>
+<line x1="932" y1="308" x2="932" y2="628" stroke="#1b222c" stroke-width="1" />
+<text x="936" y="296" font-size="13" fill="#e6e3dc" class="mono" transform="rotate(-40 936 296)">FinPlanPremium</text>
+<line x1="998" y1="308" x2="998" y2="628" stroke="#1b222c" stroke-width="1" />
+<text x="1002" y="296" font-size="13" fill="#e6e3dc" class="mono" transform="rotate(-40 1002 296)">EnerVision</text>
+<line x1="1064" y1="308" x2="1064" y2="628" stroke="#1b222c" stroke-width="1" />
+<text x="1068" y="296" font-size="13" fill="#e6e3dc" class="mono" transform="rotate(-40 1068 296)">IoT (team)</text>
+<line x1="64" y1="350" x2="1088" y2="350" stroke="#1b222c" stroke-width="1" />
+<text x="64" y="337" font-size="22" fill="#e6e3dc" class="serif">Security engineering</text>
+<circle cx="470" cy="330" r="8" fill="#d9a441"/>
+<circle cx="536" cy="330" r="8" fill="#d9a441"/>
+<circle cx="602" cy="330" r="8" fill="#d9a441"/>
+<circle cx="668" cy="330" r="8" fill="#d9a441"/>
+<circle cx="734" cy="330" r="6.5" fill="none" stroke="#8b929b" stroke-width="2"/>
+<circle cx="800" cy="330" r="1.5" fill="#38414d"/>
+<circle cx="866" cy="330" r="1.5" fill="#38414d"/>
+<circle cx="932" cy="330" r="1.5" fill="#38414d"/>
+<circle cx="998" cy="330" r="1.5" fill="#38414d"/>
+<circle cx="1064" cy="330" r="1.5" fill="#38414d"/>
+<line x1="64" y1="390" x2="1088" y2="390" stroke="#1b222c" stroke-width="1" />
+<text x="64" y="377" font-size="22" fill="#e6e3dc" class="serif">Machine learning</text>
+<circle cx="470" cy="370" r="1.5" fill="#38414d"/>
+<circle cx="536" cy="370" r="8" fill="#d9a441"/>
+<circle cx="602" cy="370" r="8" fill="#d9a441"/>
+<circle cx="668" cy="370" r="1.5" fill="#38414d"/>
+<circle cx="734" cy="370" r="6.5" fill="none" stroke="#8b929b" stroke-width="2"/>
+<circle cx="800" cy="370" r="1.5" fill="#38414d"/>
+<circle cx="866" cy="370" r="8" fill="#d9a441"/>
+<circle cx="932" cy="370" r="1.5" fill="#38414d"/>
+<circle cx="998" cy="370" r="6.5" fill="none" stroke="#8b929b" stroke-width="2"/>
+<circle cx="1064" cy="370" r="1.5" fill="#38414d"/>
+<line x1="64" y1="430" x2="1088" y2="430" stroke="#1b222c" stroke-width="1" />
+<text x="64" y="417" font-size="22" fill="#e6e3dc" class="serif">LLMs &amp; agents</text>
+<circle cx="470" cy="410" r="1.5" fill="#38414d"/>
+<circle cx="536" cy="410" r="1.5" fill="#38414d"/>
+<circle cx="602" cy="410" r="1.5" fill="#38414d"/>
+<circle cx="668" cy="410" r="1.5" fill="#38414d"/>
+<circle cx="734" cy="410" r="8" fill="#d9a441"/>
+<circle cx="800" cy="410" r="8" fill="#d9a441"/>
+<circle cx="866" cy="410" r="1.5" fill="#38414d"/>
+<circle cx="932" cy="410" r="1.5" fill="#38414d"/>
+<circle cx="998" cy="410" r="1.5" fill="#38414d"/>
+<circle cx="1064" cy="410" r="1.5" fill="#38414d"/>
+<line x1="64" y1="470" x2="1088" y2="470" stroke="#1b222c" stroke-width="1" />
+<text x="64" y="457" font-size="22" fill="#e6e3dc" class="serif">Backend &amp; APIs</text>
+<circle cx="470" cy="450" r="8" fill="#d9a441"/>
+<circle cx="536" cy="450" r="8" fill="#d9a441"/>
+<circle cx="602" cy="450" r="8" fill="#d9a441"/>
+<circle cx="668" cy="450" r="8" fill="#d9a441"/>
+<circle cx="734" cy="450" r="6.5" fill="none" stroke="#8b929b" stroke-width="2"/>
+<circle cx="800" cy="450" r="1.5" fill="#38414d"/>
+<circle cx="866" cy="450" r="1.5" fill="#38414d"/>
+<circle cx="932" cy="450" r="8" fill="#d9a441"/>
+<circle cx="998" cy="450" r="1.5" fill="#38414d"/>
+<circle cx="1064" cy="450" r="1.5" fill="#38414d"/>
+<line x1="64" y1="510" x2="1088" y2="510" stroke="#1b222c" stroke-width="1" />
+<text x="64" y="497" font-size="22" fill="#e6e3dc" class="serif">Interfaces &amp; visualisation</text>
+<circle cx="470" cy="490" r="8" fill="#d9a441"/>
+<circle cx="536" cy="490" r="8" fill="#d9a441"/>
+<circle cx="602" cy="490" r="6.5" fill="none" stroke="#8b929b" stroke-width="2"/>
+<circle cx="668" cy="490" r="1.5" fill="#38414d"/>
+<circle cx="734" cy="490" r="6.5" fill="none" stroke="#8b929b" stroke-width="2"/>
+<circle cx="800" cy="490" r="6.5" fill="none" stroke="#8b929b" stroke-width="2"/>
+<circle cx="866" cy="490" r="6.5" fill="none" stroke="#8b929b" stroke-width="2"/>
+<circle cx="932" cy="490" r="8" fill="#d9a441"/>
+<circle cx="998" cy="490" r="6.5" fill="none" stroke="#8b929b" stroke-width="2"/>
+<circle cx="1064" cy="490" r="1.5" fill="#38414d"/>
+<line x1="64" y1="550" x2="1088" y2="550" stroke="#1b222c" stroke-width="1" />
+<text x="64" y="537" font-size="22" fill="#e6e3dc" class="serif">Networks &amp; traffic</text>
+<circle cx="470" cy="530" r="6.5" fill="none" stroke="#8b929b" stroke-width="2"/>
+<circle cx="536" cy="530" r="8" fill="#d9a441"/>
+<circle cx="602" cy="530" r="1.5" fill="#38414d"/>
+<circle cx="668" cy="530" r="1.5" fill="#38414d"/>
+<circle cx="734" cy="530" r="1.5" fill="#38414d"/>
+<circle cx="800" cy="530" r="1.5" fill="#38414d"/>
+<circle cx="866" cy="530" r="1.5" fill="#38414d"/>
+<circle cx="932" cy="530" r="1.5" fill="#38414d"/>
+<circle cx="998" cy="530" r="1.5" fill="#38414d"/>
+<circle cx="1064" cy="530" r="1.5" fill="#38414d"/>
+<line x1="64" y1="590" x2="1088" y2="590" stroke="#1b222c" stroke-width="1" />
+<text x="64" y="577" font-size="22" fill="#e6e3dc" class="serif">Testing &amp; documentation</text>
+<circle cx="470" cy="570" r="8" fill="#d9a441"/>
+<circle cx="536" cy="570" r="6.5" fill="none" stroke="#8b929b" stroke-width="2"/>
+<circle cx="602" cy="570" r="1.5" fill="#38414d"/>
+<circle cx="668" cy="570" r="1.5" fill="#38414d"/>
+<circle cx="734" cy="570" r="1.5" fill="#38414d"/>
+<circle cx="800" cy="570" r="1.5" fill="#38414d"/>
+<circle cx="866" cy="570" r="1.5" fill="#38414d"/>
+<circle cx="932" cy="570" r="1.5" fill="#38414d"/>
+<circle cx="998" cy="570" r="1.5" fill="#38414d"/>
+<circle cx="1064" cy="570" r="1.5" fill="#38414d"/>
+<line x1="64" y1="630" x2="1088" y2="630" stroke="#1b222c" stroke-width="1" />
+<text x="64" y="617" font-size="22" fill="#e6e3dc" class="serif">Embedded &amp; IoT</text>
+<circle cx="470" cy="610" r="1.5" fill="#38414d"/>
+<circle cx="536" cy="610" r="1.5" fill="#38414d"/>
+<circle cx="602" cy="610" r="1.5" fill="#38414d"/>
+<circle cx="668" cy="610" r="1.5" fill="#38414d"/>
+<circle cx="734" cy="610" r="1.5" fill="#38414d"/>
+<circle cx="800" cy="610" r="1.5" fill="#38414d"/>
+<circle cx="866" cy="610" r="1.5" fill="#38414d"/>
+<circle cx="932" cy="610" r="1.5" fill="#38414d"/>
+<circle cx="998" cy="610" r="1.5" fill="#38414d"/>
+<circle cx="1064" cy="610" r="8" fill="#d9a441"/>
+<line x1="64" y1="624" x2="1136" y2="624" stroke="#262e39" stroke-width="1" />
+<circle cx="72" cy="650" r="8" fill="#d9a441"/>
+<text x="90" y="655" font-size="13" fill="#e6e3dc" class="mono">primary evidence</text>
+<circle cx="310" cy="650" r="6.5" fill="none" stroke="#8b929b" stroke-width="2"/>
+<text x="328" y="655" font-size="13" fill="#e6e3dc" class="mono">supporting evidence</text>
+<circle cx="580" cy="650" r="1.5" fill="#38414d"/>
+<text x="596" y="655" font-size="13" fill="#8b929b" class="mono">no public evidence — left empty</text>
+</svg>

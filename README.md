@@ -1,273 +1,182 @@
-<div align="center">
-
-  <img src="assets/hero/hero.png" width="100%" alt="Priyaansh Jaiswal | Cybersecurity AI Robotics IoT">
-
-  <br><br>
-
-
-
-  <h1>PRIYAANSH JAISWAL</h1>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F6FF&center=true&vCenter=true&width=650&lines=CYBERSECURITY+SPECIALIST;AI+%2F+MACHINE+LEARNING;ROBOTICS+%26+AUTONOMOUS+DRONES;IoT+%26+EDGE+COMPUTING;ENGINEERING+INTELLIGENT+SYSTEMS" alt="Typing Animation">
-  </a>
-
-  <p>
-    <strong>Building secure, intelligent systems that connect software with the physical world.</strong>
-  </p>
-
-  <p>
-    <a href="https://github.com/priyaansh21">
-      <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
-    </a>
-    <a href="YOUR_LINKEDIN_URL">
-      <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
-    </a>
-    <a href="mailto:YOUR_EMAIL">
-      <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
-    </a>
-  </p>
-
-</div>
-
-<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
-
-<h2>⚡ ENGINEERING PROFILE</h2>
-
-<p>
-  <strong>B.Tech (Hons.) Computer Science & Engineering · Cybersecurity · RV University, Bengaluru</strong>
-</p>
-
-<p>
-  I work across <strong>cybersecurity, AI/ML, computer vision, robotics, IoT, networking and edge computing</strong>.
-</p>
-
-<p>My approach is simple:</p>
-
-<div align="center">
-  <p>
-    <code>ARCHITECT</code> → <code>BUILD</code> → <code>TEST</code> → <code>SECURE</code> → <code>DEPLOY</code>
-  </p>
-</div>
-
-<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
-
-<h2>🧩 CORE STACK</h2>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="25%">Domain</th>
-      <th align="left">Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Cybersecurity</strong></td>
-      <td>Wireshark · Nmap · Nessus · FTK Imager · RegRipper · ExifTool · MVT · ADB</td>
-    </tr>
-    <tr>
-      <td><strong>AI / ML</strong></td>
-      <td>Python · OpenCV · YOLOv8 · MediaPipe · scikit-learn · LSTM</td>
-    </tr>
-    <tr>
-      <td><strong>Robotics / Edge</strong></td>
-      <td>Drones · Jetson Xavier NX · CUDA · Arduino · ESP32</td>
-    </tr>
-    <tr>
-      <td><strong>Systems</strong></td>
-      <td>Linux · Networking · Sockets · Multithreading · Docker</td>
-    </tr>
-    <tr>
-      <td><strong>Development</strong></td>
-      <td>Flask · SQLite · Git · GitHub Actions · Java · C · SQL</td>
-    </tr>
-  </tbody>
-</table>
-
-<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
-
-<h2>🚁 FEATURED SYSTEM</h2>
-
-<h3>SWARM</h3>
-<p><strong>Strategic Warfare Autonomous Response Mechanism</strong></p>
-<p>Autonomous multi-drone surveillance platform combining computer vision, edge AI and real-time monitoring.</p>
-
-<p><img src="assets/animations/swarm_radar.gif" width="100%" alt="SWARM Radar Scan"></p>
-<p><img src="assets/diagrams/swarm-architecture.png" width="100%" alt="SWARM Architecture"></p>
-
-<p>
-  <code>YOLOv8</code> <code>OpenCV</code> <code>MediaPipe</code> <code>OpenPose</code> <code>LSTM</code> <code>CUDA</code> <code>Flask</code> <code>Jetson Xavier NX</code>
-</p>
-
-<p><strong>Focus:</strong> Real-time detection · Edge inference · Drone systems · Telemetry · AI deployment</p>
-
-<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
-
-<h2>🛡️ SECURITY + AI</h2>
-
-<p><img src="assets/animations/security_scan.gif" width="100%" alt="Security Scan HUD"></p>
-<p><img src="assets/diagrams/security-ml-pipeline.png" width="100%" alt="Security ML Pipeline"></p>
-
-<h3>Security ML Work</h3>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="30%">Domain</th>
-      <th align="left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Malicious URL Detection</strong></td>
-      <td>Supervised classification and unsupervised analysis</td>
-    </tr>
-    <tr>
-      <td><strong>Anomaly Detection</strong></td>
-      <td>K-Means based security anomaly analysis</td>
-    </tr>
-    <tr>
-      <td><strong>Spam Detection</strong></td>
-      <td>Machine-learning classification and preprocessing</td>
-    </tr>
-    <tr>
-      <td><strong>Digital Forensics</strong></td>
-      <td>FTK Imager · RegRipper · ExifTool · MVT · ADB</td>
-    </tr>
-  </tbody>
-</table>
-
-<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
-
-<h2>🌐 NETWORK + INFRASTRUCTURE</h2>
-
-<h3>Smart Airport Network Infrastructure</h3>
-
-<p><img src="assets/animations/network_flow.gif" width="100%" alt="Network Traffic Flow"></p>
-<p><img src="assets/diagrams/airport-network.png" width="100%" alt="Smart Airport Network"></p>
-
-<p>Enterprise-style segmented network designed with Cisco Packet Tracer.</p>
-<p><code>VLANs</code> · <code>Network Segmentation</code> · <code>Server Zones</code> · <code>Department Isolation</code></p>
-
-<h3>Other Systems</h3>
-<ul>
-  <li><strong>Smart Hotel &amp; Command HQ Network:</strong> Secure and segmented network architectures</li>
-  <li><strong>Threaded Python Web Server:</strong> High-concurrency socket server architecture</li>
-</ul>
-
-<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
-
-<h2>🔌 IoT + EMBEDDED</h2>
-
-<h3>Sensory Portal Interaction System</h3>
-
-<p><img src="assets/animations/iot_pulse.gif" width="100%" alt="IoT System Pulse"></p>
-<p><img src="assets/diagrams/iot-architecture.png" width="100%" alt="IoT Architecture"></p>
-
-<p><strong>Built around:</strong></p>
-<p><code>Arduino Uno</code> · <code>RC522 RFID</code> · <code>MQ2</code> · <code>LED Feedback</code></p>
-<p><strong>Focus:</strong> Embedded programming, sensing, assistive interaction and hardware-software integration.</p>
-
-<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
-
-<h2>🧪 OTHER PROJECTS</h2>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="25%">Project</th>
-      <th align="left" width="25%">Area</th>
-      <th align="left">Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>GraphiteForge</strong></td>
-      <td>Computer Vision</td>
-      <td>Flask · OpenCV · Python</td>
-    </tr>
-    <tr>
-      <td><strong>BillGenie</strong></td>
-      <td>Desktop Software</td>
-      <td>Python · Tkinter</td>
-    </tr>
-    <tr>
-      <td><strong>AstroGuide</strong></td>
-      <td>OOP / GUI</td>
-      <td>Java</td>
-    </tr>
-    <tr>
-      <td><strong>MemoryVault</strong></td>
-      <td>Database Systems</td>
-      <td>SQL · DBMS</td>
-    </tr>
-    <tr>
-      <td><strong>Travel Planner</strong></td>
-      <td>Web Development</td>
-      <td>Flask · SQLite</td>
-    </tr>
-    <tr>
-      <td><strong>Smart Hotel Network</strong></td>
-      <td>Networking</td>
-      <td>Cisco Packet Tracer · VLAN</td>
-    </tr>
-  </tbody>
-</table>
-
-<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
-
-<h2>🏢 EXPERIENCE</h2>
-
-<table width="100%">
-  <tbody>
-    <tr>
-      <td width="30%"><strong>IISc Rhapsody 3.0</strong></td>
-      <td>Drone systems and autonomous technology.</td>
-    </tr>
-    <tr>
-      <td><strong>Agnirva Space Internship</strong></td>
-      <td>Technology and engineering exposure within the space-tech ecosystem.</td>
-    </tr>
-    <tr>
-      <td><strong>Vikasya Hackathon</strong></td>
-      <td>Rapid prototyping, implementation and technical problem solving.</td>
-    </tr>
-    <tr>
-      <td><strong>Adobe Hackathon</strong></td>
-      <td>Participation in a large-scale technology hackathon.</td>
-    </tr>
-  </tbody>
-</table>
-
-<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
-
-<h2>📊 GITHUB METRICS & ACTIVITY</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyaansh21&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F6FF&amp;text_color=C9D1D9&amp;icon_color=7C3AED&amp;include_all_commits=true" height="165" alt="GitHub Statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyaansh21&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F6FF&amp;text_color=C9D1D9" height="165" alt="Top Languages">
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=priyaansh21&amp;hide_border=true&amp;background=0D1117&amp;ring=00F6FF&amp;fire=7C3AED&amp;currStreakLabel=00F6FF&amp;sideLabels=C9D1D9&amp;dates=6E7681" width="65%" alt="GitHub Streak">
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyaansh21&amp;bg_color=0D1117&amp;color=00F6FF&amp;line=7C3AED&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" width="100%" alt="Priyaansh GitHub Activity Graph">
-</div>
-
-<img src="assets/animations/cyber_divider.gif" width="100%" alt="Cyber System Divider">
-
-<h2>🎯 CURRENT FOCUS</h2>
+<!--
+  Profile README for github.com/priyaansh21
+  Plates are generated by tools/build_assets.py; edit the script, not the SVGs.
+  Every factual claim below cites a repository. Keep it that way.
+-->
 
 <p align="center">
-  <code>Cybersecurity</code> · <code>AI Security</code> · <code>Computer Vision</code> · <code>Edge AI</code> · <code>Robotics</code> · <code>IoT</code> · <code>Secure Infrastructure</code>
+  <img src="assets/hero/opening-frame.svg" width="100%" alt="Priyaansh Jaiswal. Systems that decide what to trust. A plan of six nested rooms (IAM, VPC, POLICY, MFA, RISK, DECISION); a request passes IAM, fails at VPC, and the verdict reads DENY.">
 </p>
+
+<p align="center">
+  <sub>FRAME 00 · THE VERDICT IS SHOWN FIRST</sub>
+</p>
+
+> A contractor holds a valid permission for `financial-records`. The request comes from the wrong network.
+> IAM says **yes**. The system says **no**.
+>
+> That refusal comes from [CloudContextGuard](https://github.com/priyaansh21/CloudContextGuard). Every chapter below is evidence for how it was reached.
 
 <br>
 
-<div align="center">
-  <img src="assets/animations/footer_core.gif" width="100%" alt="Core System Engine Footer">
-  <br><br>
-  <p><strong>BUILD · SECURE · INTELLIGENT · AUTONOMOUS</strong></p>
-  <p><strong>INNOVATE • INTEGRATE • ELEVATE</strong></p>
-  <br>
-  <sub>PRIYAANSH JAISWAL · CYBERSECURITY × AI × ROBOTICS × IoT</sub>
-</div>
+<img src="assets/visual-system/chapter-01.svg" width="100%" alt="Chapter 01: The Person">
+
+**Priyaansh Jaiswal** is a computer science undergraduate (B.Tech (Hons.), RV University, Bengaluru) who builds security systems around one question: *when should a machine believe what it is told?*
+
+The answer, across these repositories, is: rarely, and only for a stated reason. An access request is not trusted because its credential is valid. A packet is not trusted because it looks ordinary. A QR code is not trusted because it decodes cleanly. Each project turns that suspicion into architecture. Independent checks feed a single, explainable decision, and the code says plainly which parts are real and which are simulated.
+
+The working toolkit is Python and FastAPI on the backend, scikit-learn where a model earns its place, and React where an analyst needs to see the reasoning. The current interests are access control, intrusion detection, phishing analysis, and the narrow space where machine learning and security engineering have to agree.
+
+<br>
+
+<img src="assets/visual-system/chapter-02.svg" width="100%" alt="Chapter 02: The Work">
+
+Three exhibits and two studies, ordered by depth of implementation rather than by date. Each states what it is: a working system, a simulation, or a prototype.
+
+<br>
+
+<img src="assets/projects/01-cloudcontextguard.svg" width="100%" alt="CloudContextGuard: IAM passes, VPC fails, the remaining checks are still evaluated, and the decision engine returns DENY. Below: seven named risk factors and the LOW / MEDIUM / HIGH / CRITICAL thresholds at 30, 60 and 80.">
+
+### Exhibit I · [CloudContextGuard](https://github.com/priyaansh21/CloudContextGuard)
+*Context-aware cloud authorization, modelled locally with no real cloud account involved.*
+
+| **Status** | Working implementation · local simulation, no cloud account |
+|:---|:---|
+| **Problem** | A stolen credential inherits every permission it carries, from any network. IAM alone answers the wrong question. |
+| **Concept** | IAM permission is *necessary, not sufficient*. Identity, permission, network origin, resource policy, MFA and risk are evaluated independently on every request. |
+| **Architecture** | Four evaluator engines (IAM, VPC, policy with MFA, risk) are pure functions that return structured, explainable results. A fifth, the **decision engine**, alone may produce `ALLOW` or `DENY`. The access service resolves the database and orchestrates. No engine queries it. |
+| **Risk** | A deterministic 0–100 score with no hidden weights. Each point belongs to a named factor, e.g. *External network +40*, *Missing MFA +30*, *Repeated failed requests +10*. Levels: MEDIUM ≥ 30, HIGH ≥ 60, CRITICAL ≥ 80. |
+| **Live policy** | Policies are re-read from the database on every request. An administrator's edit takes effect on the very next call, with no code change. |
+| **Verification** | A written threat model (stolen credentials, untrusted VPC, missing MFA, privilege escalation, repeated probing), an attack-simulation lab, and 82 test functions across five pytest files. |
+| **Stack** | `FastAPI` `SQLAlchemy 2` `Pydantic 2` `SQLite` `pytest` · `React 19` `Vite` `Tailwind 4` `Recharts` |
+
+<br>
+
+<img src="assets/projects/02-sentinelsphere-nids.svg" width="100%" alt="SentinelSphere NIDS: a packet stream with a SYN burst, three rolling windows (60, 30 and 10 seconds), five signature rules and two models feeding an alert.">
+
+### Exhibit II · [SentinelSphere NIDS](https://github.com/priyaansh21/NIDS)
+*A hybrid network intrusion detection system with a live SOC dashboard.*
+
+| **Status** | Working implementation · live capture or simulator · synthetic training data |
+|:---|:---|
+| **Problem** | Fixed rules miss novel traffic, and models alone are hard to trust at 3 a.m. An analyst needs both, plus a clear account of which one fired. |
+| **Concept** | Signatures for the known, anomaly scoring for the unknown. **Signature hits override the model.** The model still contributes confidence for triage. |
+| **Pipeline** | Scapy `AsyncSniffer` captures traffic and falls back to a traffic simulator when capture privileges are missing. Per-source rolling state tracks SYN and ICMP rates over **10 s**, unique ports and flow volume over **30 s**, and authentication attempts over **60 s**. |
+| **Detection** | Five signatures (SYN flood, ICMP flood, port scan, brute force, ARP spoofing) and two models: `IsolationForest` scores anomalies and `RandomForest` classifies attacks into *Normal · DoS/DDoS · Probe · R2L · U2R*. |
+| **Interface** | JWT-authenticated admin and analyst roles, SQLite telemetry, a WebSocket stream to a React dashboard, attack replay, and CSV and PDF export. |
+| **Honest note** | The models are trained on a synthetic dataset that the project generates itself. The plate reports architecture, not detection rates. |
+| **Stack** | `Python` `Scapy` `scikit-learn` `FastAPI` `SQLite` `WebSockets` · `React` `Recharts` `Framer Motion` |
+
+<br>
+
+<img src="assets/projects/03-qr-shield.svg" width="100%" alt="QR Shield: a QR code dissolves into a decoded example URL that passes five ordered layers (feedback, reputation, patterns, model, verification) before receiving a 0 to 100 score.">
+
+### Exhibit III · [QR Shield](https://github.com/priyaansh21/QR-Fishing-Detector)
+*Phishing analysis for QR codes, from the image to the verdict.*
+
+| **Status** | Working implementation · prototype-scale training data |
+|:---|:---|
+| **Problem** | A QR code hides its destination until after the scan, which makes it a convenient wrapper for phishing links. |
+| **Concept** | Decode first, then interrogate the URL in ordered layers. Each layer adds a named reason to the score. |
+| **Layers** | **Analyst feedback** overrides everything. Then reputation (blocklist, raw-IP hosts, suspicious TLDs), patterns (homographs, punycode, obfuscation, brand typosquatting), a gradient-boosting model over **30 lexical features** including URL and domain entropy, and live verification of SSL validity and redirect chains. |
+| **Delivery** | A FastAPI service with batch analysis and CSV export, a web front end, and a Manifest V3 browser extension. |
+| **Honest note** | The training sets are prototype-scale. Treat the model as one signal among five, as the pipeline itself does. |
+| **Stack** | `OpenCV` `pyzbar` `Pillow` `scikit-learn` `FastAPI` `SQLite` · `Chrome MV3` |
+
+<br>
+
+<img src="assets/projects/04-studies.svg" width="100%" alt="Studies IV and V. MalSim: a composite threat score weighted static 0.35, dynamic 0.30, YARA 0.20, network 0.15. HEALIX: a six-stage pipeline of ingest, context, reason, govern, act and learn.">
+
+### Studies IV & V · Architecture at prototype stage
+
+**[MalSim](https://github.com/priyaansh21/malsim-backend)** is a malware-analysis *pipeline* study built as an async FastAPI service with upload validation, rate limiting and a composite threat score (`static × 0.35 + dynamic × 0.30 + YARA × 0.20 + network × 0.15`). Scores map to CLEAN, LOW (≥ 10), MEDIUM (≥ 40) and HIGH (≥ 70). File hashes (SHA-256, SHA-1, MD5) are computed, and so is Shannon entropy for uploads outside the built-in demo profiles. The sandbox and YARA stages are **simulated**, so it shows how the scoring is designed, not a working detonation environment.
+
+**[HEALIX / CORTEX-SHIELD](https://github.com/priyaansh21/CORTEX-SHIELD)** is a hackathon prototype of a governed incident-response pipeline for e-commerce migrations. Each signal passes *ingest → context → reason → govern → act → learn*, and payments, auth and infra specialist agents vote on hypotheses. A governance table assigns each action domain its own autonomy, and **payment actions get zero autonomy and always require approval**. An LLM bridge prefers a local Ollama model, falls back to OpenAI, and degrades to simulated reasoning when neither is reachable.
+
+<br>
+
+<details>
+<summary><b>The archive</b>: smaller and earlier work</summary>
+
+<br>
+
+| Repository | What it is | Built with |
+|---|---|---|
+| [StudyAssistant](https://github.com/priyaansh21/StudyAssistant) | Offline desktop tool that turns PDF, DOCX and PPTX course material into notes and practice questions with a local LLM | `Ollama` `CustomTkinter` `SQLite` |
+| [NLP · Resume Ranker](https://github.com/priyaansh21/NLP) | Resume parsing and candidate ranking against a job description using TF-IDF cosine similarity and skill matching | `spaCy` `scikit-learn` `Streamlit` |
+| [FinPlanPremium](https://github.com/priyaansh21/FinPlanPremium) | Personal-finance app for transactions, loans and goals, with JWT authentication | `React` `Vite` `Express` `Prisma` |
+| [EnerVision-AI](https://github.com/priyaansh21/EnerVision-AI) | Energy-consumption forecasting dashboard with cost and carbon estimates | `scikit-learn` `Tkinter` `Matplotlib` |
+| [IoT-SUMMER-INTERNSHIP](https://github.com/priyaansh21/IoT-SUMMER-INTERNSHIP) | Team project: Arduino access and alert system with RFID, an MQ2 fire sensor and an IR beam break | `Arduino C++` `MFRC522` |
+| [FITBITE](https://github.com/priyaansh21/FITBITE-PYTHON-PROJECT) | Flask fitness and nutrition tracker | `Flask` `SQLite` |
+
+</details>
+
+<br>
+
+<img src="assets/visual-system/chapter-03.svg" width="100%" alt="Chapter 03: The Landscape">
+
+<img src="assets/diagrams/evidence-matrix.svg" width="100%" alt="Evidence matrix: eight capability domains plotted against ten repositories, marking where each capability has primary or supporting evidence in source code.">
+
+Capabilities are listed only where source code supports them. Each row names the repositories where the evidence can be read.
+
+| Domain | Evidence in code | Tools |
+|---|---|---|
+| **Security engineering** | Layered authorization, intrusion detection, phishing analysis, threat scoring: CloudContextGuard, SentinelSphere, QR Shield, MalSim | IAM/VPC/MFA modelling · threat modelling · signature rules · JWT · rate limiting |
+| **Machine learning** | Anomaly detection, multiclass attack classification, URL classification, text similarity: SentinelSphere, QR Shield, Resume Ranker | `scikit-learn` · Isolation Forest · Random Forest · Gradient Boosting · TF-IDF |
+| **LLMs & agents** | Local-first LLM integration and governed agent loops: HEALIX, StudyAssistant | `Ollama` · OpenAI API · multi-agent orchestration |
+| **Networks & traffic** | Packet capture and feature extraction over rolling windows, plus VPC trust boundaries: SentinelSphere, CloudContextGuard | `Scapy` · TCP/IP · ARP · ICMP |
+| **Backend & APIs** | REST and WebSocket services with typed schemas and persistence | `FastAPI` · `SQLAlchemy` · `Pydantic` · `Express` · `Prisma` · `SQLite` |
+| **Interfaces** | Analyst dashboards and desktop tools | `React` · `Vite` · `Tailwind` · `Recharts` · `Streamlit` · `Tkinter` |
+| **Testing & documentation** | pytest suites, a threat model, API and research documentation: CloudContextGuard | `pytest` · `httpx` |
+| **Embedded & IoT** | One team Arduino project (sensors, RFID, alerts) | `Arduino` · `MFRC522` · `MQ2` |
+
+<br>
+
+<img src="assets/visual-system/chapter-04.svg" width="100%" alt="Chapter 04: The Thinking">
+
+Six working principles. Each is cited to the code that applies it.
+
+**I. Necessary is not sufficient.**
+A valid permission starts a decision. It does not settle one. *CloudContextGuard treats IAM PASS as the first of six required checks.*
+
+**II. Every number should have a name.**
+A risk score that cannot explain itself is just a guess. *CloudContextGuard's risk engine attaches every point to a named, human-readable factor.*
+
+**III. One authority decides.**
+Many components may observe, but only one may conclude. *In CloudContextGuard, four engines report and only the fifth, the decision engine, returns `ALLOW` or `DENY`.*
+
+**IV. Rules for the known, models for the unknown.**
+Signatures are fast and explainable, and anomaly models catch what no one wrote down. *In SentinelSphere, a signature hit overrides the model and the model still informs triage.*
+
+**V. Humans keep the irreversible decisions.**
+Autonomy should shrink as the cost of a mistake grows. *HEALIX gives payment actions zero autonomy, and QR Shield lets an analyst's verdict override its own model.*
+
+**VI. Say what is simulated.**
+A demonstration is only credible when it marks its own boundaries. *CloudContextGuard opens by stating that no real cloud resource is ever contacted. This page labels each exhibit the same way.*
+
+<br>
+
+<img src="assets/visual-system/chapter-05.svg" width="100%" alt="Chapter 05: The Connection">
+
+<table>
+  <tr>
+    <td width="96" valign="top"><img src="assets/identity/enfilade-mark.svg" width="72" alt="Enfilade mark"></td>
+    <td valign="top">
+      <b>LinkedIn</b> · <a href="https://www.linkedin.com/in/priyaansh-jaiswal-05883b29a">priyaansh-jaiswal</a><br>
+      <b>GitHub</b> · <a href="https://github.com/priyaansh21">priyaansh21</a><br>
+      <sub>Correspondence about any of the work above is welcome.</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="assets/visual-system/chapter-06.svg" width="100%" alt="Chapter 06: The Final Frame">
+
+<p align="center">
+  <img src="assets/hero/closing-frame.svg" width="100%" alt="Closing frame, mirrored from the opening. A request passes all six rooms and the verdict reads ALLOW. Trust is a conclusion, not a default.">
+</p>
+
+<p align="center">
+  <sub>FRAME 06 · THE SAME BUILDING, SEEN FROM THE OTHER SIDE</sub>
+</p>

@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-labelledby="t d">
+<title id="t">Chapter 01 — The Person</title>
+<desc id="d">Chapter divider: 01, The Person. Who builds the systems.</desc>
+<style>
+.serif{font-family:Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif}
+.mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;letter-spacing:.08em}
+.flow{stroke-dasharray:6 8;animation:flow 2.4s linear infinite}
+.pulse{animation:pulse 3.2s ease-in-out infinite}
+.sweep{animation:sweep 9s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-28}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.45}}
+@keyframes sweep{0%{transform:translateX(0)}100%{transform:translateX(var(--sweep,400px))}}
+@media (prefers-reduced-motion:reduce){.flow,.pulse,.sweep{animation:none}}
+</style>
+<rect width="1200" height="160" fill="#0d1117"/>
+<text x="64" y="96" font-size="76" fill="#d9a441" class="serif">01</text>
+<text x="192" y="92" font-size="46" fill="#e6e3dc" class="serif">The Person</text>
+<text x="1136" y="48" font-size="13" fill="#8b929b" class="mono" text-anchor="end">CHAPTER 01 / 06</text>
+<rect x="990" y="66" width="14" height="14" fill="#8b929b" stroke="#8b929b" stroke-width="1" />
+<rect x="1012" y="66" width="14" height="14" fill="#d9a441" stroke="#d9a441" stroke-width="1" />
+<rect x="1034" y="66" width="14" height="14" fill="none" stroke="#38414d" stroke-width="1" />
+<rect x="1056" y="66" width="14" height="14" fill="none" stroke="#38414d" stroke-width="1" />
+<rect x="1078" y="66" width="14" height="14" fill="none" stroke="#38414d" stroke-width="1" />
+<rect x="1100" y="66" width="14" height="14" fill="none" stroke="#38414d" stroke-width="1" />
+<rect x="1122" y="66" width="14" height="14" fill="none" stroke="#38414d" stroke-width="1" />
+<line x1="64" y1="118" x2="1136" y2="118" stroke="#38414d" stroke-width="1" />
+<line x1="64" y1="118" x2="64" y2="128" stroke="#38414d" stroke-width="1" />
+<line x1="80" y1="118" x2="80" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="96" y1="118" x2="96" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="112" y1="118" x2="112" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="128" y1="118" x2="128" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="144" y1="118" x2="144" y2="128" stroke="#38414d" stroke-width="1" />
+<line x1="160" y1="118" x2="160" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="176" y1="118" x2="176" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="192" y1="118" x2="192" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="208" y1="118" x2="208" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="224" y1="118" x2="224" y2="128" stroke="#38414d" stroke-width="1" />
+<line x1="240" y1="118" x2="240" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="256" y1="118" x2="256" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="272" y1="118" x2="272" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="288" y1="118" x2="288" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="304" y1="118" x2="304" y2="128" stroke="#38414d" stroke-width="1" />
+<line x1="320" y1="118" x2="320" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="336" y1="118" x2="336" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="352" y1="118" x2="352" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="368" y1="118" x2="368" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="384" y1="118" x2="384" y2="128" stroke="#38414d" stroke-width="1" />
+<line x1="400" y1="118" x2="400" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="416" y1="118" x2="416" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="432" y1="118" x2="432" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="448" y1="118" x2="448" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="464" y1="118" x2="464" y2="128" stroke="#38414d" stroke-width="1" />
+<line x1="480" y1="118" x2="480" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="496" y1="118" x2="496" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="512" y1="118" x2="512" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="528" y1="118" x2="528" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="544" y1="118" x2="544" y2="128" stroke="#38414d" stroke-width="1" />
+<line x1="560" y1="118" x2="560" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="576" y1="118" x2="576" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="592" y1="118" x2="592" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="608" y1="118" x2="608" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="624" y1="118" x2="624" y2="128" stroke="#38414d" stroke-width="1" />
+<line x1="640" y1="118" x2="640" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="656" y1="118" x2="656" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="672" y1="118" x2="672" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="688" y1="118" x2="688" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="704" y1="118" x2="704" y2="128" stroke="#38414d" stroke-width="1" />
+<line x1="720" y1="118" x2="720" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="736" y1="118" x2="736" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="752" y1="118" x2="752" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="768" y1="118" x2="768" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="784" y1="118" x2="784" y2="128" stroke="#38414d" stroke-width="1" />
+<line x1="800" y1="118" x2="800" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="816" y1="118" x2="816" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="832" y1="118" x2="832" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="848" y1="118" x2="848" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="864" y1="118" x2="864" y2="128" stroke="#38414d" stroke-width="1" />
+<line x1="880" y1="118" x2="880" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="896" y1="118" x2="896" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="912" y1="118" x2="912" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="928" y1="118" x2="928" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="944" y1="118" x2="944" y2="128" stroke="#38414d" stroke-width="1" />
+<line x1="960" y1="118" x2="960" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="976" y1="118" x2="976" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="992" y1="118" x2="992" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="1008" y1="118" x2="1008" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="1024" y1="118" x2="1024" y2="128" stroke="#38414d" stroke-width="1" />
+<line x1="1040" y1="118" x2="1040" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="1056" y1="118" x2="1056" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="1072" y1="118" x2="1072" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="1088" y1="118" x2="1088" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="1104" y1="118" x2="1104" y2="128" stroke="#38414d" stroke-width="1" />
+<line x1="1120" y1="118" x2="1120" y2="123" stroke="#262e39" stroke-width="1" />
+<line x1="1136" y1="118" x2="1136" y2="123" stroke="#262e39" stroke-width="1" />
+<text x="64" y="150" font-size="13" fill="#5b636d" class="mono">WHO BUILDS THE SYSTEMS</text>
+</svg>
