@@ -226,44 +226,6 @@ def closing() -> str:
     )
 
 
-CHAPTERS = [
-    ("00", "The Verdict", "THE ENDING, SHOWN FIRST"),
-    ("01", "The Person", "WHO BUILDS THE SYSTEMS"),
-    ("02", "The Work", "THREE EXHIBITS, TWO STUDIES"),
-    ("03", "The Landscape", "CAPABILITY, MAPPED TO SOURCE"),
-    ("04", "The Thinking", "SIX AXIOMS, EACH WITH A CITATION"),
-    ("05", "The Connection", "CHANNELS"),
-    ("06", "The Final Frame", "THE REVERSE SHOT"),
-]
-
-
-def chapter(idx: int) -> str:
-    num, title, kicker = CHAPTERS[idx]
-    h = 160
-    body = [
-        text(M, 96, num, 76, ACCENT, cls="serif"),
-        text(M + 128, 92, title, 46, INK, cls="serif"),
-        text(W - M, 48, f"CHAPTER {num} / 06", 13, MUTED, anchor="end"),
-    ]
-    sq, gap = 14, 8
-    x0 = W - M - (len(CHAPTERS) * (sq + gap) - gap)
-    for i in range(len(CHAPTERS)):
-        x = x0 + i * (sq + gap)
-        if i == idx:
-            body.append(rect(x, 66, sq, sq, ACCENT, ACCENT, 1))
-        elif i < idx:
-            body.append(rect(x, 66, sq, sq, MUTED, MUTED, 1))
-        else:
-            body.append(rect(x, 66, sq, sq, LINE_2, "none", 1))
-    body.append(line(M, 118, W - M, 118, LINE_2))
-    for x in range(M, W - M + 1, 16):
-        tall = (x - M) % 80 == 0
-        body.append(line(x, 118, x, 118 + (10 if tall else 5), LINE_2 if tall else LINE))
-    body.append(text(M, 150, kicker, 13, DIM))
-    return svg(h, f"Chapter {num} — {title}", f"Chapter divider: {num}, {title}. {kicker.capitalize()}.",
-               "\n".join(body))
-
-
 def ccg_plate() -> str:
     h = 700
     out = [
@@ -603,8 +565,6 @@ def main() -> None:
         "projects/04-studies.svg": studies_plate(),
         "diagrams/evidence-matrix.svg": landscape_plate(),
     }
-    for i in range(1, len(CHAPTERS)):
-        files[f"visual-system/chapter-{CHAPTERS[i][0]}.svg"] = chapter(i)
     for rel, content in files.items():
         path = ASSETS / rel
         path.parent.mkdir(parents=True, exist_ok=True)
